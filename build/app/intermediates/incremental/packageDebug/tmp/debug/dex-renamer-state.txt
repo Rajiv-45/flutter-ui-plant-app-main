@@ -1,0 +1,4 @@
+#Mon Dec 11 23:06:30 IST 2023
+base.0=C\:\\Users\\RAJIV DUBEY\\Downloads\\flutter-ui-plant-app-main\\flutter-ui-plant-app-main\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
