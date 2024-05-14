@@ -68,7 +68,7 @@ class ProfilePage extends StatelessWidget {
                 children: const [
                   ProfileWidget(
                     icon: Icons.person,
-                    title: 'My Profile',
+                    title: 'My Profi',
                   ),
                   ProfileWidget(
                     icon: Icons.settings,
